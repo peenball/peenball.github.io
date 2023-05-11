@@ -1,10 +1,15 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2023-05-11 00:22:00 +0900
-categories: jekyll update
+title:  "First Posting"
+date:   2023-05-11 22:22:00 +0900
+categories: test
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+첫번째 포스팅.
+.
+.
+.
+어떻게 구성해야 할까?
+
 
 Jekyll requires blog post files to be named according to the following format:
 
